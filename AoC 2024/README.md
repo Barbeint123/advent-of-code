@@ -1,0 +1,1 @@
+My attempt at solving [Advent of Code 2024](https://adventofcode.com/2024). All solutions are written in python without AI assistance.
